@@ -9,10 +9,10 @@
 <p align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</p>
 - :telescope: I’m currently working on *My Personal Development*
 - :seedling: I’m currently learning *React.js node.js and Database*
-- :male-technologist: All of my projects are available at [https://thisiskmv.github.io/](https://thisiskmv.github.io/)
+- :male-technologist: All of my projects are available at
 - :speech_balloon: Ask me about *React.js Node.js HTML CSS JavaScript & JAVA*
-- :mailbox: How to reach me *thisiskmv@gmail.com*
-- :page_facing_up: Know about my experiences [https://drive.google.com/file/d/1tqO6N7mu2UwSY8CxzUEoCThGq8uA49Fv/view](https://drive.google.com/file/d/1tqO6N7mu2UwSY8CxzUEoCThGq8uA49Fv/view)
+- :mailbox: How to reach me *pankajsbisht143@gmail.com*
+- :page_facing_up: Know about my experiences 
 ## :trophy: Trophies :
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajsbisht143&theme=onedark" alt="vishalll069" /></a> </p>
