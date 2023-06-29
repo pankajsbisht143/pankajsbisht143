@@ -49,7 +49,7 @@
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
                 alt="https://www.linkedin.com/in/pankaj-singh-bisht-3abb4525a/" width="40px" />
         </a>
-        <a href="https://github.com/Bharat-Shaw" target="blank">
+        <a href="https://github.com/pankajsbisht143" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/github.png"
                 alt="https://github.com/pankajsbisht143" width="40px"/>
