@@ -53,7 +53,7 @@
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsbisht143&theme=radical&border_radius=2.7&show_icons=true" alt="pankajsbisht143" />
 
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajsbisht143&theme=radical&border_radius=2.7" alt="kamal verma's GitHub Contribution"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajsbisht143&theme=radical&border_radius=2.7" alt="pankaj singh GitHub Contribution"/>
   
 
   
@@ -65,7 +65,7 @@
 
 <h2>🌍 Connect with me :</h2>
    <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/bharat-shaw-4b5b76274/" target="blank">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pankaj-singh-bisht-3abb4525a/" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
                 alt="https://www.linkedin.com/in/pankaj-singh-bisht-3abb4525a/" width="40px" />
