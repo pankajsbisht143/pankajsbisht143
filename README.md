@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React.js Node.js HTML CSS JavaScript & JAVA**
 
-- 📫 How to reach me **thisiskmv@gmail.com**
+- 📫 How to reach me **pankajsbisht143@gmail.com**
 
 - 📄 Know about my experiences
 
@@ -21,7 +21,7 @@
 
 ## 🏆 Trophies :
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajsbisht143&theme=onedark" alt="vishalll069" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajsbisht143&theme=onedark" alt="pankajsbisht143" /></a> </p>
 
 ## 👨‍💻 TECH STACK :
 
@@ -50,7 +50,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=thisiskmv&theme=radical&border_radius=2.7&show_icons=true" alt="thisiskmv" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsbisht143&theme=radical&border_radius=2.7&show_icons=true" alt="pankajsbisht143" />
 
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pankajsbisht143&theme=radical&border_radius=2.7" alt="kamal verma's GitHub Contribution"/>
@@ -77,11 +77,11 @@
         </a>
     </p>
     <h2>❤ Views and Followers :</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bharat-Shaw/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=thisiskmv" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/pankajsbisht143/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=pankajsbisht143" >
     </a>
-    <a href="https://github.com/Bharat-Shaw?tab=followers">
-        <img src="https://img.shields.io/github/followers/thisiskmv?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/pankajsbisht143?tab=followers">
+        <img src="https://img.shields.io/github/followers/pankajsbisht143?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://thisiskmv.github.io/">🌍 | Portfolio </a></h2>
+    <h2><a href="https://pankajsbisht143.github.io/">🌍 | Portfolio </a></h2>
