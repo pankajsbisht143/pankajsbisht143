@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js node.js and Database**
 
-- 👨‍💻 All of my projects are available at [https://pankajsbisht143.github.io/](https://pankajsbisht143.github.io/)
+- 👨‍💻 All of my projects are available at [https://pankajsbisht143.github.io/](https://pankajsbisht143.github.io)
 
 - 💬 Ask me about **React.js Node.js HTML CSS JavaScript & JAVA**
 
