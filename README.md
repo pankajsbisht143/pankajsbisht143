@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pankajsbisht143@gmail.com**
 
-- 📄 Know about my experiences
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11yKKGV6OoMbDsTILKfbBidqgv557DYHO/view?usp=sharing">Resume</a>
 
 
 
